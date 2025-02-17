@@ -1,9 +1,9 @@
+## This repository is forked from [Trinkle23897/Undergraduate](https://github.com/Trinkle23897/Undergraduate), with some individualized learning materials added.
+*The links on **contents table** below refer to the original repository.*
+
 For English version, please refer to [README-en.md](README-en.md).
 
 # Undergraduate
-
-![](https://img.shields.io/github/repo-size/Trinkle23897/Undergraduate.svg?style=flat)
-
 大学本科期间的各种课程作业
 
 除了THU-CST的课程之外，还有如下三门网课：
